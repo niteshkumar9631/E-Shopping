@@ -10,7 +10,7 @@ A full-stack E-commerce web application built using Node.js, Express, MongoDB, a
 - **Authentication** : JSON Web Tokens (JWT)
 - **Email Service** : Nodemailer
 - **File Storage** : Cloudinary
-- **Payments** : Stripe / Razorpay
+- **Payments** : Razorpay
 ---
 ##  Project Structure
 
@@ -18,7 +18,7 @@ A full-stack E-commerce web application built using Node.js, Express, MongoDB, a
 
 - backend/ – API and server logic
 
-admin/ – Admin dashboard for managing products and orders
+-  admin/ – Admin dashboard for managing products and orders
 ---
 ##  Features
 
