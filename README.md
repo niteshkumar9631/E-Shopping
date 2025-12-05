@@ -76,7 +76,6 @@ CLOUDINARY_SECRET_KEY=    # Cloudinary API secret key
 JWT_SECRET=               # Secret key for JWT authentication
 ADMIN_EMAIL=              # Admin login email
 ADMIN_PASSWORD=           # Admin login password
-STRIPE_SECRET_KEY=        # Stripe API secret key for payments
 RAZORPAY_KEY_ID=          # Razorpay public key for payments
 RAZORPAY_KEY_SECRET=      # Razorpay secret key
 EMAIL_USER=               # Email address for sending emails
@@ -107,7 +106,9 @@ EMAIL_PASS=               # App password or email password
 
 # Admin Panel page
 <img width="1362" height="639" alt="image" src="https://github.com/user-attachments/assets/6fd826d6-1c3c-469e-adc9-be7b0ea8e115" />
-
+<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/e4ceeee7-6457-4a97-9c09-bbfaf2e076a6" />
+<img width="1366" height="644" alt="image" src="https://github.com/user-attachments/assets/4e0e08d3-f110-48f6-b739-cb4933de8ac2" />
+<img width="1364" height="643" alt="image" src="https://github.com/user-attachments/assets/0f3c2cc8-1c28-4be7-9f14-92fd383ce8ea" />
 
 ##  Running the Application
 - Backend
